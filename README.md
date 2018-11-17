@@ -1,2 +1,5 @@
 # phoink
-Real-time chat systen,
+A real-time chat system.
+
+## Contributors
+jono-chan
